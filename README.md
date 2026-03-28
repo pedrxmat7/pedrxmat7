@@ -70,9 +70,3 @@ src="https://img.shields.io/github/followers/pedrxmat7?logo=github&style=for-the
 ### Badges
 
 <a href="http://www.github.com/pedrxmat7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrxmat7&stroke=ffffff&background=1c1917&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-###
-## 🐍 Contribuições
-
-![snake gif](https://github.com/pedrxmat7/pedrxmat7/blob/output/github-contribution-grid-snake.svg)
