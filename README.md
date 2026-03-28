@@ -73,3 +73,6 @@ src="https://img.shields.io/github/followers/pedrxmat7?logo=github&style=for-the
 
 
 ###
+## 🐍 Contribuições
+
+![snake gif](https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg)
