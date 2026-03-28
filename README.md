@@ -1,16 +1,14 @@
-<div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/b5/7e/ff/b57effccfadc2ea612d997a0fbfa27bc.png"  />
-</div>
 
-###
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pedro Henrique de Matos Costa
+======================================================================================================================================================
 
-<h1 align="center">Olá, eu sou Pedro Henrique</h1>
+Full Stack Developer, Designer and Traffic Manager
+--------------------------------------------------
 
-###
+Sou estudante de Desenvolvimento de Sistemas e atuo na área de Full Stack. Desde criança, a tecnologia sempre me fascinou e acabou se tornando uma paixão. Atualmente, estou me aprofundando no aprendizado das linguagens PHP, React e JavaScript
 
-<p align="left">Sou estudante de Desenvolvimento de Sistemas e atuo na área de Full Stack. Desde criança, a tecnologia sempre me fascinou e acabou se tornando uma paixão. Atualmente, estou me aprofundando no aprendizado das linguagens PHP, React e JavaScript</p>
-
-###
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [pedromatos999997@gmail.com](mailto:pedromatos999997@gmail.com)
 
 <h4 align="left">Skills</h4>
 
@@ -56,13 +54,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrxmat7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=pedrxmat7&locale=pt-br&mode=daily&theme=aura_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
-</div>
+<a href="https://www.github.com/pedrxmat7" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/pedrxmat7?logo=github&style=for-the-badge&color=444e59&labelColor=1c1917" /></a>
 
-###
+### Badges
 
-<img src="https://raw.githubusercontent.com/pedrxmat7/pedrxmat7/output/snake.svg" alt="Snake animation" />
+<a href="http://www.github.com/pedrxmat7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pedrxmat7&stroke=ffffff&background=1c1917&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 ###
