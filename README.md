@@ -18,7 +18,7 @@ Sou estudante de Desenvolvimento de Sistemas e atuo na área de Full Stack. Desd
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
