@@ -2,17 +2,21 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=103&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
+<img src="https://i.pinimg.com/1200x/bd/b4/ed/bdb4edcca1bee1ed1bd38678c20c447c.jpg" align="center" min-width="400px" max-width="850px" width="750px">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pedro Henrique de Matos Costa
 ======================================================================================================================================================
 
 Full Stack Developer, Designer and Traffic Manager
 --------------------------------------------------
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<div align="left">
 Sou estudante de Desenvolvimento de Sistemas e atuo na área de Full Stack. Desde criança, a tecnologia sempre me fascinou e acabou se tornando uma paixão. Atualmente, estou me aprofundando no aprendizado das linguagens PHP, React e JavaScript
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [pedromatos999997@gmail.com](mailto:pedromatos999997@gmail.com)
+</div>
 
 <h4 align="left">Skills</h4>
 
@@ -42,6 +46,53 @@ Sou estudante de Desenvolvimento de Sistemas e atuo na área de Full Stack. Desd
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
+  <img src="https://skillicons.dev/icons?i=ps" height="60" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="60" alt="adobeaftereffects logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="60" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellijidea logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="60" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="60" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rider" height="60" alt="rider logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=replit" height="60" alt="replit logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="60" alt="webstorm logo"  />
 </div>
 
 ###
@@ -77,6 +128,6 @@ src="https://img.shields.io/github/followers/pedrxmat7?logo=github&style=for-the
 
 ### Badges
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=pedrxmat7&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+[![card](https://github-readme-stats.vercel.app/api?username=pedrxmat7&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrxmat7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
