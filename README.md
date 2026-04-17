@@ -107,7 +107,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrxmat7&show_icons=true&theme=dark&border_radius=10"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrxmat7&layout=compact&theme=dark&border_radius=10"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrxmat7&layout=compact&theme=dark&border_radius=10"/>
 
 </div>
 
