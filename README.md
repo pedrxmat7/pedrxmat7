@@ -137,7 +137,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 <div align="center">
 
-![snake gif](https://github.com/pedrxmat7/pedrxmat7/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/pedrxmat7/pedrxmat7/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
