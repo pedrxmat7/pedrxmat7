@@ -125,7 +125,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pedrxmat7&theme=dark&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=pedrxmat7&theme=dark&border_radius=10&card_width=500"/>
 
 </div>
 
