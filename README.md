@@ -6,7 +6,7 @@
 
 # Hi👋,My  name is Pedro Henrique
 
-### 💻 Full Stack Developer | 🚀 Future Software Engineer | 💰 Builder
+###  Full Stack Developer |  Future Software Engineer |  Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código;Construindo+projetos+reais;Focado+em+crescimento+e+resultado;React+|+Node+|+PHP+|+Laravel"/>
 
@@ -17,15 +17,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <div align="left" >
-<h2>🧠 Quem sou eu</h2>
+<h2> Quem sou eu</h2>
 
 Sou desenvolvedor em evolução constante, focado em crescer, construir projetos reais e transformar conhecimento em resultado.
 
 Vejo programação como ferramenta pra:
 
-* 💰 gerar dinheiro
-* 🚀 construir liberdade
-* 🧠 desenvolver mentalidade
+*  gerar dinheiro
+*  construir liberdade
+*  desenvolver mentalidade
 
 Desde cedo a tecnologia me chamou atenção — hoje virou disciplina.
 
@@ -33,7 +33,7 @@ Desde cedo a tecnologia me chamou atenção — hoje virou disciplina.
 
 ---
 
-## ⚡ Mentalidade
+##  Mentalidade
 
 ```diff
 + Disciplina > motivação
@@ -43,29 +43,29 @@ Desde cedo a tecnologia me chamou atenção — hoje virou disciplina.
 ```
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Me tornar um **Engenheiro de Software completo**, dominando o desenvolvimento Full Stack e construindo soluções escaláveis que gerem impacto real.
 
-📌 Foco Atual (Saas Needs)
+ Foco Atual (Saas Needs)
 
 Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um sistema completo, aplicando na prática:
 
-- 💻 Desenvolvimento Full Stack  
-- 🗄️ Modelagem e integração com banco de dados  
-- ⚙️ Criação de funcionalidades reais e úteis  
-- 🚀 Boas práticas de desenvolvimento  
+-  Desenvolvimento Full Stack  
+-  Modelagem e integração com banco de dados  
+-  Criação de funcionalidades reais e úteis  
+-  Boas práticas de desenvolvimento  
 
-### 🔮 Futuro (Visão)
+###  Futuro (Visão)
 
-- 🧠 Me tornar referência em desenvolvimento Full Stack  
-- 💰 Criar projetos que gerem renda e liberdade financeira  
-- 🏢 Desenvolver minhas próprias soluções e empresas  
-- 🌍 Trabalhar em projetos grandes e de alto impacto
+-  Me tornar referência em desenvolvimento Full Stack  
+-  Criar projetos que gerem renda e liberdade financeira  
+-  Desenvolver minhas próprias soluções e empresas  
+-  Trabalhar em projetos grandes e de alto impacto
 
 ---
 
-## ⚔️ Stack Principal
+##  Stack Principal
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,mysql,postgres,tailwind,git,github,python" />
@@ -73,7 +73,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 ---
 
-## 🧰 Ferramentas & Tecnologias
+##  Ferramentas & Tecnologias
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=figma,ps,linux,vercel,vite,cloudflare,gcp,notion,discord,vscode,idea,webstorm,phpstorm,supabase,replit" />
@@ -81,7 +81,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 ---
 
-## 🌐 Contato
+##  Contato
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center">
 
@@ -121,7 +121,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 ---
 
-## 🔥 Streak
+##  Streak
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 ---
 
-## 👀 Visitas no perfil
+##  Visitas no perfil
 
 <div align="center">
 
@@ -141,7 +141,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 ---
 
-## 📊 Contribuições
+##  Contribuições
 
 <div align="center">
 
@@ -151,13 +151,13 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 ---
 
-## 🚀 Projetos em destaque
+##  Projetos em destaque
 
 🔹 Saas de Agendamento de Serviços **NEEDS** (FullStack)
 
 ---
 
-## ⚡ Frase
+##  Frase
 
 > “Disciplina constrói o que motivação nunca sustenta.”
 
