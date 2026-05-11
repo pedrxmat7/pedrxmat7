@@ -8,13 +8,13 @@
 
 ### 💻 Full Stack Developer | 🚀 Future Software Engineer | 💰 Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código;Construindo+projetos+reais;Focado+em+crescimento+e+resultado;React+|+Node+|+PHP+|+Laravel"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código;Construindo+projetos+reais;Focado+em+crescimento+e+resultado" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px"/>
 
 <div align="left" >
 <h2>🧠 Quem sou eu</h2>
@@ -113,9 +113,9 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrxmat7&show_icons=true&theme=dark&border_radius=10"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedrxmat7&show_icons=true&theme=dark&border_radius=10)
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrxmat7&layout=compact&theme=dark&border_radius=10"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrxmat7&layout=compact&theme=dark&border_radius=10)
 
 </div>
 
@@ -125,7 +125,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pedrxmat7&theme=dark&border_radius=10&card_width=500"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=pedrxmat7&theme=dark&border_radius=10&card_width=500)
 
 </div>
 
@@ -135,7 +135,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=pedrxmat7&style=for-the-badge&color=blue"/>
+![Profile Views](https://komarev.com/ghpvc/?username=pedrxmat7&style=for-the-badge&color=blue)
 
 </div>
 
@@ -159,7 +159,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 
 ## ⚡ Frase
 
-> “Disciplina constrói o que motivação nunca sustenta.”
+> "Disciplina constrói o que motivação nunca sustenta."
 
 ---
 
