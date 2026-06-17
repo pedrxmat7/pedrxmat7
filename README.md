@@ -76,7 +76,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 ##  Ferramentas & Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=figma,ps,linux,vercel,vite,cloudflare,gcp,notion,discord,vscode,idea,webstorm,phpstorm,supabase,replit" />
+<img src="https://skillicons.dev/icons?i=figma,linux,vercel,vite,cloudflare,notion,vscode,supabase," />
 </div>
 
 ---
@@ -97,13 +97,6 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
 
 </div>
 
