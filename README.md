@@ -68,7 +68,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 ##  Stack Principal
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,laravel,mysql,postgres,tailwind,git,github,python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,mysql,postgres,git,github" />
 </div>
 
 ---
@@ -76,7 +76,7 @@ Atualmente estou desenvolvendo uma Startup chamada **NEEDS**, que consiste em um
 ##  Ferramentas & Tecnologias
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=figma,linux,vercel,vite,cloudflare,notion,vscode,supabase," />
+<img src="https://skillicons.dev/icons?i=figma,vercel,notion,vscode," />
 </div>
 
 ---
