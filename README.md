@@ -210,15 +210,15 @@ while (developer.isAlive()) {
 ## 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrxmat7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=pedrxmat7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrxmat7&show_icons=true&theme=dark&border_radius=12&bg_color=0A0F1A&title_color=00F7FF&icon_color=00F7FF&text_color=E2E8F0&border_color=1E293B" alt="GitHub stats" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pedrxmat7&show_icons=true&theme=dark&border_radius=12&bg_color=0A0F1A&title_color=00F7FF&icon_color=00F7FF&text_color=E2E8F0&border_color=1E293B" alt="GitHub stats" />
   &nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrxmat7&layout=compact&theme=dark&border_radius=12&bg_color=0A0F1A&title_color=00F7FF&icon_color=00F7FF&text_color=E2E8F0&border_color=1E293B" alt="Top languages" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pedrxmat7&layout=compact&theme=dark&border_radius=12&bg_color=0A0F1A&title_color=00F7FF&icon_color=00F7FF&text_color=E2E8F0&border_color=1E293B" alt="Top languages" />
 </div>
 
 <br/>
