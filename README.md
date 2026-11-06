@@ -8,18 +8,25 @@
 
 # Pedro Henrique
 
-### Full Stack Developer & Builder | Estudante de Tecnologia
+### 🚀 Full Stack Developer & Builder • Estudante de Tecnologia
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=800&lines=Construindo+solu%C3%A7%C3%B5es+e+sistemas+reais;Transformando+ideias+em+c%C3%B3digo+escal%C3%A1vel;Focado+em+resultado%2C+arquitetura+e+evolu%C3%A7%C3%A3o;React+%E2%80%A2+Node.js+%E2%80%A2+PHP+%E2%80%A2+Laravel+%E2%80%A2+TypeScript" alt="Typing SVG" />
+[![Perfil Views](https://komarev.com/ghpvc/?username=pedrxmat7&label=VISITAS%20AO%20PERFIL&color=00F7FF&style=for-the-badge&labelColor=0A0F1A)](https://github.com/pedrxmat7)
+[![Disponibilidade](https://img.shields.io/badge/STATUS-DISPON%C3%8DVEL%20PARA%20OPORTUNIDADES-00F7FF?style=for-the-badge&labelColor=0A0F1A&logo=git&logoColor=00F7FF)](https://www.linkedin.com/in/pedrohtech/)
+[![Localização](https://img.shields.io/badge/LOCAL-BRASIL%20%F0%9F%87%A7%F0%9F%87%B7-0A0F1A?style=for-the-badge&labelColor=161B22&logo=googlemaps&logoColor=00F7FF)](https://github.com/pedrxmat7)
 
 <br/>
 
-<p>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=860&lines=Desenvolvendo+solu%C3%A7%C3%B5es+reais+com+c%C3%B3digo+e+prop%C3%B3sito;React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PHP+%E2%80%A2+Laravel;Construindo+o+SaaS+NEEDS+%E2%80%A2+Agendamento+Inteligente;Foco+em+arquitetura+escal%C3%A1vel%2C+clean+code+e+resultado" alt="Typing SVG" />
+
+<br/>
+
+<p align="center">
   <a href="#sobre-mim"><img src="https://img.shields.io/badge/Sobre%20mim-0A0F1A?style=for-the-badge&logo=github&logoColor=00F7FF" alt="Sobre mim" /></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/Stack-0A0F1A?style=for-the-badge&logo=codeforces&logoColor=00F7FF" alt="Stack" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/Tech%20Stack-0A0F1A?style=for-the-badge&logo=codeforces&logoColor=00F7FF" alt="Stack" /></a>
   <a href="#projetos"><img src="https://img.shields.io/badge/Projetos-0A0F1A?style=for-the-badge&logo=git&logoColor=00F7FF" alt="Projetos" /></a>
+  <a href="#roadmap"><img src="https://img.shields.io/badge/Roadmap-0A0F1A?style=for-the-badge&logo=target&logoColor=00F7FF" alt="Roadmap" /></a>
   <a href="#estatisticas"><img src="https://img.shields.io/badge/Estatísticas-0A0F1A?style=for-the-badge&logo=googleanalytics&logoColor=00F7FF" alt="Estatísticas" /></a>
-  <a href="#contato"><img src="https://img.shields.io/badge/Contato-0A0F1A?style=for-the-badge&logo=gmail&logoColor=00F7FF" alt="Contato" /></a>
+  <a href="#contato"><img src="https://img.shields.io/badge/Contato-0A0F1A?style=for-the-badge&logo=minutemailer&logoColor=00F7FF" alt="Contato" /></a>
 </p>
 
 </div>
@@ -28,75 +35,89 @@
 
 <div id="sobre-mim"></div>
 
-## 📌 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração Computador" width="380" align="right" />
+Sou um desenvolvedor Full Stack em constante evolução técnica, impulsionado pelo desafio de **resolver problemas reais, criar produtos com viabilidade prática e gerar impacto através da tecnologia**.
 
-Sou um desenvolvedor Full Stack em constante evolução, com foco em criar **soluções reais**, escrever código com propósito e transformar conhecimento em impacto prático.
-
-A tecnologia me atrai pela possibilidade de **resolver problemas complexos, gerar valor de negócio e construir liberdade**. Encaro a programação como uma ferramenta fundamental para erguer produtos digitais, abrir novas oportunidades e impulsionar o crescimento técnico e pessoal.
-
-Meu objetivo principal é consolidar uma base de excelência em **Engenharia de Software**, projetando sistemas escaláveis, organizados, seguros e prontos para o mundo real.
+Acredito que programar vai muito além da sintaxe: trata-se de **compreender a fundo as regras de negócio, modelar dados com precisão e construir sistemas seguros, elegantes e preparados para crescer**.
 
 <br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Disciplina-Consistente-brightgreen?style=flat-square&labelColor=0A0F1A" alt="Disciplina" />
-  <img src="https://img.shields.io/badge/Evolução-Diária-00F7FF?style=flat-square&labelColor=0A0F1A" alt="Evolução" />
-  <img src="https://img.shields.io/badge/Execução-Constante-orange?style=flat-square&labelColor=0A0F1A" alt="Execução" />
-  <img src="https://img.shields.io/badge/Foco-Resultado%20%26%20Impacto-red?style=flat-square&labelColor=0A0F1A" alt="Resultado" />
-</p>
+### 🎯 Visão Rápida & Destaques
 
-<br clear="right"/>
+| 📌 Tópico | 💡 Detalhes & Aplicação |
+| :--- | :--- |
+| 💼 **Foco Atual** | Construção da startup SaaS **NEEDS** (sistema inteligente de agendamento e gestão de serviços). |
+| 🎓 **Perfil Acadêmico** | Estudante de Tecnologia com foco constante em **Engenharia de Software** e boas práticas. |
+| 🛠️ **Especialidade** | Ecossistema Web: Front-end reativo (**React / TypeScript / Tailwind**) & Back-end estruturado (**Node.js / PHP / Laravel**). |
+| 📐 **Engenharia** | Atenção redobrada a **Clean Code**, arquitetura modular, APIs RESTful e persistência relacional (**PostgreSQL / MySQL**). |
+| 🚀 **Diferencial** | Senso de produto (Product Sense), autonomia técnica e consistência diária de execução. |
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Disciplina-Constante-00F7FF?style=flat-square&labelColor=0A0F1A" alt="Disciplina" />
+  <img src="https://img.shields.io/badge/Evolução-Diária-brightgreen?style=flat-square&labelColor=0A0F1A" alt="Evolução" />
+  <img src="https://img.shields.io/badge/Clean%20Code-Boas%20Práticas-blue?style=flat-square&labelColor=0A0F1A" alt="Clean Code" />
+  <img src="https://img.shields.io/badge/Foco-Resultado%20%26%20Impacto-orange?style=flat-square&labelColor=0A0F1A" alt="Resultado" />
+  <img src="https://img.shields.io/badge/SaaS-Builder-red?style=flat-square&labelColor=0A0F1A" alt="SaaS" />
+</div>
 
 ---
 
 <div id="stack"></div>
 
-## 🛠️ Stack & Tecnologias
+## 🛠️ Arsenal Técnico & Ferramentas
 
-Organização das tecnologias e ferramentas com as quais construo aplicações modernas:
+Tecnologias, linguagens e ferramentas utilizadas no desenvolvimento das minhas aplicações:
 
-<br/>
-
-### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" alt="Frontend: React, TypeScript, JavaScript, Tailwind, HTML, CSS" />
-</p>
-
-### ⚙️ Backend & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel" alt="Backend: Node.js, PHP, Laravel" />
-</p>
-
-### 🗄️ Bancos de Dados
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Bancos de Dados: PostgreSQL, MySQL" />
-</p>
-
-### 🔧 Ferramentas, DevOps & Ambiente
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,linux,ubuntu,notion" alt="Ferramentas: Git, GitHub, VS Code, Postman, Figma, Vercel, Linux, Ubuntu, Notion" />
-</p>
+<table>
+  <thead>
+    <tr>
+      <th width="20%">Camada</th>
+      <th width="42%">Tecnologias & Frameworks</th>
+      <th width="38%">Ícones Visuais</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>🌐 Frontend</strong></td>
+      <td><code>React</code> • <code>TypeScript</code> • <code>JavaScript (ES6+)</code> • <code>Tailwind CSS</code> • <code>HTML5</code> • <code>CSS3</code></td>
+      <td><img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" alt="Frontend" /></td>
+    </tr>
+    <tr>
+      <td><strong>⚙️ Backend & APIs</strong></td>
+      <td><code>Node.js</code> • <code>PHP</code> • <code>Laravel</code> • <code>Express</code> • <code>APIs RESTful</code></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,php,laravel" alt="Backend" /></td>
+    </tr>
+    <tr>
+      <td><strong>🗄️ Bancos de Dados</strong></td>
+      <td><code>PostgreSQL</code> • <code>MySQL</code> • <code>Modelagem Relacional</code> • <code>Migrations</code></td>
+      <td><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Bancos de Dados" /></td>
+    </tr>
+    <tr>
+      <td><strong>🔧 DevOps & Ferramentas</strong></td>
+      <td><code>Git</code> • <code>GitHub</code> • <code>Linux / Ubuntu</code> • <code>Postman</code> • <code>Vercel</code> • <code>Figma</code> • <code>VS Code</code> • <code>Notion</code></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,postman,vercel,figma,vscode,notion" alt="Ferramentas" /></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 🎯 Filosofia de Trabalho & Engenharia
+<div id="roadmap"></div>
 
-```bash
-while (true) {
-    compreender_problema();
-    arquitetar_solucao();
-    escrever_codigo_limpo();
-    testar_e_otimizar();
-    entregar_valor_real();
-}
-```
+## 🗺️ Roadmap de Aprendizado & Metas
 
-- **Entender o problema antes de codar:** Código eficiente começa com clareza dos requisitos.
-- **Pragmatismo com qualidade:** Soluções simples, elegantes e manuteníveis superam complexidade desnecessária.
-- **Aprendizado por construção:** A melhor forma de dominar tecnologia é colocando produtos no ar.
-- **Constância e disciplina:** Evolução técnica é fruto de repetição intencional diária.
+Acompanhamento contínuo da minha evolução técnica em direção à Engenharia de Software de alto nível:
+
+| Fase | Tópicos & Tecnologias | Nível / Status |
+| :---: | :--- | :---: |
+| **01** | **Fundamentos Web & Lógica:** Algoritmos, Git, Estrutura de Dados, JavaScript Moderno | <img src="https://img.shields.io/badge/Conclu%C3%ADdo-brightgreen?style=flat-square&labelColor=0A0F1A" alt="Concluído" /> |
+| **02** | **Front-end Moderno:** React.js, TypeScript, Tailwind CSS, Componentização, SPAs | <img src="https://img.shields.io/badge/Dominado-brightgreen?style=flat-square&labelColor=0A0F1A" alt="Dominado" /> |
+| **03** | **Back-end & Persistência:** PHP/Laravel, Node.js, Modelagem SQL (Postgres/MySQL), Autenticação JWT | <img src="https://img.shields.io/badge/Em%20Uso%20Di%C3%A1rio-00F7FF?style=flat-square&labelColor=0A0F1A" alt="Em Uso Diário" /> |
+| **04** | **Arquitetura & Engenharia:** Clean Architecture, Padrões SOLID, Testes Automatizados (TDD/Jest) | <img src="https://img.shields.io/badge/Aprofundando-orange?style=flat-square&labelColor=0A0F1A" alt="Aprofundando" /> |
+| **05** | **DevOps & Cloud:** Docker, Containerização, CI/CD com GitHub Actions, Deploy em Nuvem | <img src="https://img.shields.io/badge/Pr%C3%B3ximo%20Passo-lightgrey?style=flat-square&labelColor=0A0F1A" alt="Próximo Passo" /> |
 
 ---
 
@@ -104,54 +125,95 @@ while (true) {
 
 ## 🚀 Projetos em Destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ NEEDS</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square&labelColor=0A0F1A" alt="Status: Em Desenvolvimento" />
-      </p>
-      <p>
-        <strong>SaaS de agendamento e gestão de serviços</strong>, concebido para oferecer uma experiência de usuário intuitiva, automação de fluxos operacionais e arquitetura robusta para uso real.
-      </p>
-      <p>
-        <strong>Stack Principal:</strong><br/>
-        <code>React</code> • <code>Node.js</code> • <code>Laravel</code> • <code>PostgreSQL</code> • <code>MySQL</code>
-      </p>
-      <p><strong>Destaques:</strong></p>
-      <ul>
-        <li>Interface moderna, responsiva e focada na jornada do usuário</li>
-        <li>Modelagem relacional para múltiplos prestadores e serviços</li>
-        <li>Estrutura modular e preparada para escalabilidade</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Dev Portfolio</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=flat-square&labelColor=0A0F1A" alt="Status: Concluído" />
-      </p>
-      <p>
-        <strong>Portfólio profissional</strong> projetado para demonstrar evolução técnica, projetos entregues, organização de código e capacidade de desenvolvimento de interfaces sólidas.
-      </p>
-      <p>
-        <strong>Stack Principal:</strong><br/>
-        <code>React</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Vercel</code>
-      </p>
-      <p><strong>Destaques:</strong></p>
-      <ul>
-        <li>Apresentação profissional com design clean e dark mode</li>
-        <li>Código tipado, componentizado e modular</li>
-        <li>Otimização de performance e deploy automatizado</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<br/>
+
+### ⚡ 01. NEEDS — SaaS de Agendamento Inteligente
+> 🟡 **Status:** *Em desenvolvimento ativo (MVP em construção)*
+
+Plataforma SaaS desenvolvida para resolver uma dor real de prestadores de serviços e empresas: eliminar a perda de tempo e as falhas operacionais decorrentes de agendamentos manuais via mensagens e cadernos.
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
+
+<br/>
+
+**Diferenciais Técnicos & Recursos:**
+- 🗓️ **Agendamento 24/7:** Clientes escolhem serviço, profissional e horário vago em tempo real com checagem automática de conflitos.
+- 📊 **Painel Gerencial:** Dashboard interativo para o profissional visualizar sua agenda diária, serviços mais requisitados e status de confirmações.
+- 🔐 **Autenticação & Controle de Acesso (RBAC):** Proteção de rotas e separação de permissões entre clientes e administradores.
+- 🧩 **Arquitetura Modular:** Separação limpa entre camada de apresentação, regras de negócio e persistência de dados.
+
+---
+
+### 💼 02. Dev Portfolio & Hub Pessoal
+> 🟢 **Status:** *Concluído & Publicado*
+
+Portfólio profissional desenvolvido para consolidar minha presença digital, apresentar projetos de forma elegante e demonstrar domínio na criação de interfaces modernas.
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</div>
+
+<br/>
+
+**Diferenciais Técnicos & Recursos:**
+- 🎨 **Design System Dark/Neon:** Identidade visual inspirada na estética cyberpunk/futurista com alto contraste e excelente legibilidade.
+- ⚡ **Performance & SEO:** Código modular, componentizado, carregamento rápido e otimizado para os Core Web Vitals.
+- 📱 **Totalmente Responsivo:** Experiência consistente e fluida tanto no desktop quanto em dispositivos móveis.
+
+---
+
+### 🧪 03. Labs, APIs & Desafios de Engenharia
+> 🚀 **Status:** *Em contínua expansão*
+
+Ambiente de testes e protótipos onde desenvolvo desafios práticos para validar novas ferramentas, padrões de arquitetura e integrações:
+
+- 🔑 **Sistemas de Autenticação JWT:** Implementação de fluxos de login com refresh token, hashing de senhas e middlewares de segurança.
+- 🔄 **CRUDs Relacionais Avançados:** Práticas com migrations, relacionamentos `1:N` / `N:M`, paginação e validação de requests.
+- 🌐 **Consumo de APIs Externas:** Tratamento robusto de erros, requisições assíncronas e tipagem rigorosa de respostas.
+
+---
+
+## ⚡ Princípios de Engenharia & Filosofia de Trabalho
+
+```bash
+while (developer.isAlive()) {
+    entender_problema_de_negocio();
+    desenhar_arquitetura_simples_e_escalavel();
+    escrever_codigo_limpo_e_testavel();
+    otimizar_performance();
+    entregar_valor_real();
+}
+```
+
+| 🎯 Foco no Negócio | 🏗️ Clean Architecture | 📈 Execução & Aprendizado | 🤝 Senso de Dono |
+| :--- | :--- | :--- | :--- |
+| Código existe para resolver dores reais e gerar valor sustentável para usuários e negócios. | Soluções simples, código legível e arquitetura desacoplada superam complexidade prematura. | A teoria se consolida quando colocamos a mão no código e construímos produtos reais. | Responsabilidade do início ao fim pelo produto, pela qualidade do código e pela entrega. |
 
 ---
 
 <div id="estatisticas"></div>
 
 ## 📊 Estatísticas no GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pedrxmat7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrxmat7&show_icons=true&theme=dark&border_radius=12&bg_color=0A0F1A&title_color=00F7FF&icon_color=00F7FF&text_color=E2E8F0&border_color=1E293B" alt="GitHub stats" />
@@ -177,15 +239,15 @@ while (true) {
 
 <div id="contato"></div>
 
-## 📬 Conecte-se Comigo
+## 📬 Vamos Conversar?
 
-Vamos trocar uma ideia sobre tecnologia, parcerias ou novos projetos?
+Estou sempre aberto a trocar ideias sobre novas tecnologias, projetos desafiadores, parcerias e oportunidades profissionais!
 
 <br/>
 
 <div align="center">
   <a href="mailto:pedromatos999997@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-pedromatos999997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-pedromatos999997%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/pedrohtech/" target="_blank">
@@ -193,7 +255,11 @@ Vamos trocar uma ideia sobre tecnologia, parcerias ou novos projetos?
   </a>
   &nbsp;
   <a href="https://instagram.com/sx_costax" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@sx__costax-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%40sx__costax-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/pedrxmat7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-pedrxmat7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
